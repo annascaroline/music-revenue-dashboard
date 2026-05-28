@@ -1,3 +1,4 @@
+
 # US Music Industry Revenue Dashboard
 
 An analysis of US recorded music revenue from 1980–2023, built from 
@@ -30,6 +31,8 @@ Python · pandas · plotly · pdfplumber · Jupyter
    now outpacing CDs in dollar value for the first time since the 1980s, 
    suggesting a durable premium physical market will coexist with streaming.
 	> *except this does not account for inflation; if that was taken into consideration CD sales are still above LP/EP, which is something people often overlook*
+
+<img width="969" height="488" alt="Screenshot 2026-05-28 at 13 18 43" src="https://github.com/user-attachments/assets/179810b7-c1c0-41bc-adcb-dbc87502978b" />
 
 ## Charts
 - `charts/chart1_revenue_over_time.html` — Stacked area: revenue by format 1980–2023
