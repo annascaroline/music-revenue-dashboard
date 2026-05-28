@@ -32,7 +32,7 @@ Python · pandas · plotly · pdfplumber · Jupyter
    suggesting a durable premium physical market will coexist with streaming.
 	> *except this does not account for inflation; if that was taken into consideration CD sales are still above LP/EP, which is something people often overlook*
 
-<img width="969" height="488" alt="Screenshot 2026-05-28 at 13 18 43" src="https://github.com/user-attachments/assets/179810b7-c1c0-41bc-adcb-dbc87502978b" />
+<img width="600" height="300" alt="Screenshot 2026-05-28 at 13 18 43" src="https://github.com/user-attachments/assets/179810b7-c1c0-41bc-adcb-dbc87502978b" />
 
 ## Charts
 - `charts/chart1_revenue_over_time.html` — Stacked area: revenue by format 1980–2023
